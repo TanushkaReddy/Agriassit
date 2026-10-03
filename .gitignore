@@ -1,0 +1,67 @@
+# ==============================
+# AgriAssist - Git Ignore
+# ==============================
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Python build files
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Vite
+frontend/dist/
+frontend/.vite/
+
+# IDE / editors
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Do NOT ignore .pkl files
+# ML models are required by AgriAssist.
+# Large models should be handled using Git LFS.

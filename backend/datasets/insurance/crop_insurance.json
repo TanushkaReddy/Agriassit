@@ -1,0 +1,404 @@
+{
+  "schemes": [
+    {
+      "id": "pmfby-rice",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Rice",
+      "state": "All",
+      "coverage": "Coverage against notified non-preventable natural risks and crop losses as specified under the scheme and applicable state notification.",
+      "premium": "Farmer share is generally up to 2% of the sum insured for Kharif food grain and oilseed crops.",
+      "eligibility": "Farmers cultivating notified crops in notified areas and meeting the applicable scheme requirements.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Coverage for notified natural risks",
+        "Support for stabilizing farm income"
+      ],
+      "application_process": "Apply through the designated bank, insurance channel or official crop insurance portal within the notified enrollment period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-maize",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Maize",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses caused by covered natural risks under the applicable state notification.",
+      "premium": "Farmer share is generally up to 2% of the sum insured for Kharif food grain crops.",
+      "eligibility": "Farmers growing maize in notified areas where the crop is notified for insurance.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Apply through the designated insurance channel or official crop insurance portal during the notified period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-wheat",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Wheat",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses caused by covered natural risks under the applicable state notification.",
+      "premium": "Farmer share is generally up to 1.5% of the sum insured for Rabi food grain crops.",
+      "eligibility": "Farmers cultivating wheat in notified areas where the crop is included under the applicable insurance notification.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Farm income stabilization"
+      ],
+      "application_process": "Apply through the designated bank, insurance channel or official crop insurance portal within the notified period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-chickpea",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Chickpea",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses caused by covered natural risks according to the applicable state notification.",
+      "premium": "Farmer share is generally up to 1.5% of the sum insured for Rabi food grain crops.",
+      "eligibility": "Farmers cultivating notified chickpea crops in notified insurance areas.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Apply through the designated insurance channel within the notified enrollment period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-pigeonpea",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Pigeon Pea",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses caused by covered natural risks according to the applicable state notification.",
+      "premium": "Farmer share is generally up to 2% of the sum insured for Kharif food grain and pulse crops.",
+      "eligibility": "Farmers cultivating notified pigeon pea crops in notified areas.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Farm income stabilization"
+      ],
+      "application_process": "Apply through the designated channel within the applicable enrollment period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-groundnut",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Groundnut",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses caused by covered natural risks under applicable state notifications.",
+      "premium": "Farmer share is generally up to 2% of the sum insured for Kharif oilseed crops.",
+      "eligibility": "Farmers cultivating notified groundnut crops in notified areas.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Apply through the designated insurance channel or official portal within the notified period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-soybean",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Soybean",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses caused by covered natural risks according to applicable state notifications.",
+      "premium": "Farmer share is generally up to 2% of the sum insured for Kharif oilseed crops.",
+      "eligibility": "Farmers cultivating notified soybean crops in notified insurance areas.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Farm income stabilization"
+      ],
+      "application_process": "Apply through the designated insurance channel within the notified enrollment period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-mustard",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Mustard",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses caused by covered natural risks under the applicable state notification.",
+      "premium": "Farmer share is generally up to 1.5% of the sum insured for Rabi oilseed crops.",
+      "eligibility": "Farmers cultivating notified mustard crops in notified areas.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Apply through the designated insurance channel within the notified period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-cotton",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Cotton",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses and specified risks under the applicable state insurance notification.",
+      "premium": "For annual commercial crops, farmer share is generally up to 5% of the sum insured.",
+      "eligibility": "Farmers cultivating notified cotton crops in notified insurance areas.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Support for farm income stability"
+      ],
+      "application_process": "Apply through the designated insurance channel or official crop insurance portal during the notified period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-sugarcane",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Sugarcane",
+      "state": "All",
+      "coverage": "Coverage where the crop and area are notified under the applicable insurance scheme and season.",
+      "premium": "Premium depends on the applicable crop category, actuarial premium and state notification.",
+      "eligibility": "Farmers cultivating sugarcane in areas and seasons where the crop is notified for insurance.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Risk protection for notified crops",
+        "Income stabilization support"
+      ],
+      "application_process": "Check the applicable state notification and apply through the designated insurance channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-chilli",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Chilli",
+      "state": "All",
+      "coverage": "Coverage where chilli is notified under the applicable crop insurance notification.",
+      "premium": "Premium depends on the notified crop category, season and actuarial premium.",
+      "eligibility": "Farmers cultivating chilli in notified areas and meeting the applicable scheme requirements.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified risks",
+        "Support for income stabilization"
+      ],
+      "application_process": "Check state and seasonal notification and apply through the designated insurance channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-turmeric",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Turmeric",
+      "state": "All",
+      "coverage": "Coverage where turmeric is notified under the applicable crop insurance notification.",
+      "premium": "Premium depends on the notified crop category, season and actuarial premium.",
+      "eligibility": "Farmers cultivating turmeric in notified areas and meeting applicable requirements.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Check the applicable state notification and apply through the designated channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-sunflower",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Sunflower",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses caused by covered natural risks under the applicable state notification.",
+      "premium": "Farmer share generally follows the applicable premium rate for the notified crop and season.",
+      "eligibility": "Farmers cultivating notified sunflower crops in notified areas.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Apply through the designated insurance channel within the notified period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "pmfby-lentil",
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "crop": "Lentil",
+      "state": "All",
+      "coverage": "Coverage against notified crop losses caused by covered natural risks under applicable state notifications.",
+      "premium": "Farmer share is generally up to 1.5% of the sum insured for Rabi food grain and pulse crops.",
+      "eligibility": "Farmers cultivating notified lentil crops in notified insurance areas.",
+      "benefits": [
+        "Financial protection against covered crop losses",
+        "Protection against specified natural risks",
+        "Farm income stabilization"
+      ],
+      "application_process": "Apply through the designated insurance channel within the notified period.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-mango",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Mango",
+      "state": "All",
+      "coverage": "Weather-based insurance protection for notified crops against specified weather parameters and risks under the applicable state notification.",
+      "premium": "Farmer premium generally follows the applicable premium structure for annual horticultural and commercial crops, subject to notification.",
+      "eligibility": "Farmers cultivating notified mango crops in notified areas and meeting applicable scheme requirements.",
+      "benefits": [
+        "Weather-based crop risk protection",
+        "Financial support for covered weather-related losses",
+        "Protection against specified adverse weather conditions"
+      ],
+      "application_process": "Check state notification, notified crop and season, then apply through the designated insurance channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-banana",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Banana",
+      "state": "All",
+      "coverage": "Weather-based insurance protection against specified weather parameters and risks for notified areas and seasons.",
+      "premium": "Premium depends on the notified crop, state, season and actuarial premium.",
+      "eligibility": "Farmers cultivating notified banana crops in notified areas.",
+      "benefits": [
+        "Weather-based crop insurance protection",
+        "Financial protection against covered weather risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Check the applicable state notification and apply through the designated insurance channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-grapes",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Grapes",
+      "state": "All",
+      "coverage": "Weather-based insurance protection for notified grape crops against specified weather parameters and risks.",
+      "premium": "Premium depends on the notified crop, state, season and actuarial premium.",
+      "eligibility": "Farmers cultivating notified grape crops in notified areas.",
+      "benefits": [
+        "Weather-based crop risk protection",
+        "Financial support for covered weather-related losses",
+        "Protection against specified adverse weather conditions"
+      ],
+      "application_process": "Check the applicable state and seasonal notification and apply through the designated channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-orange",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Orange",
+      "state": "All",
+      "coverage": "Weather-based insurance protection against specified weather parameters for notified crops and areas.",
+      "premium": "Premium depends on the applicable state notification, crop and season.",
+      "eligibility": "Farmers cultivating notified orange crops in notified areas.",
+      "benefits": [
+        "Weather-based crop insurance protection",
+        "Financial protection against covered weather risks",
+        "Support for stabilizing farm income"
+      ],
+      "application_process": "Check the applicable state notification and apply through the designated insurance channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-papaya",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Papaya",
+      "state": "All",
+      "coverage": "Weather-based insurance protection against specified weather parameters for notified areas and seasons.",
+      "premium": "Premium depends on the notified crop, state, season and actuarial premium.",
+      "eligibility": "Farmers cultivating notified papaya crops in notified areas.",
+      "benefits": [
+        "Weather-based crop risk protection",
+        "Financial support for covered weather-related losses",
+        "Income stabilization support"
+      ],
+      "application_process": "Check state notification and apply through the designated insurance channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-pomegranate",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Pomegranate",
+      "state": "All",
+      "coverage": "Weather-based insurance protection against specified weather parameters and covered risks under applicable notifications.",
+      "premium": "Premium depends on the notified crop, state, season and actuarial premium.",
+      "eligibility": "Farmers cultivating notified pomegranate crops in notified areas.",
+      "benefits": [
+        "Weather-based crop insurance protection",
+        "Financial protection against covered weather risks",
+        "Support for farm income stabilization"
+      ],
+      "application_process": "Check applicable state and seasonal notification and apply through the designated channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-coconut",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Coconut",
+      "state": "All",
+      "coverage": "Weather-based insurance protection where the crop is notified under the applicable scheme and state notification.",
+      "premium": "Premium depends on the applicable crop, state, season and actuarial premium.",
+      "eligibility": "Farmers cultivating notified coconut crops in notified areas.",
+      "benefits": [
+        "Weather-based crop risk protection",
+        "Financial protection against covered weather risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Check the applicable state notification and apply through the designated insurance channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-tomato",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Tomato",
+      "state": "All",
+      "coverage": "Weather-based insurance protection where tomato is notified for the applicable area and season.",
+      "premium": "Premium depends on the notified crop, state, season and actuarial premium.",
+      "eligibility": "Farmers cultivating notified tomato crops in notified areas.",
+      "benefits": [
+        "Weather-based crop insurance protection",
+        "Financial protection against covered weather risks",
+        "Support for stabilizing farm income"
+      ],
+      "application_process": "Check the applicable state and seasonal notification before applying.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-potato",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Potato",
+      "state": "All",
+      "coverage": "Weather-based insurance protection where potato is notified under the applicable state and seasonal notification.",
+      "premium": "Premium depends on the notified crop, state, season and actuarial premium.",
+      "eligibility": "Farmers cultivating notified potato crops in notified areas.",
+      "benefits": [
+        "Weather-based crop risk protection",
+        "Financial protection against covered weather risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Check the applicable state notification and apply through the designated insurance channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-onion",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Onion",
+      "state": "All",
+      "coverage": "Weather-based insurance protection where onion is notified under the applicable state and seasonal notification.",
+      "premium": "Premium depends on the notified crop, state, season and actuarial premium.",
+      "eligibility": "Farmers cultivating notified onion crops in notified areas.",
+      "benefits": [
+        "Weather-based crop insurance protection",
+        "Financial protection against covered weather risks",
+        "Support for stabilizing farm income"
+      ],
+      "application_process": "Check applicable state notification and apply through the designated insurance channel.",
+      "official_url": "https://pmfby.gov.in/"
+    },
+    {
+      "id": "rwbcis-chilli",
+      "name": "Restructured Weather Based Crop Insurance Scheme (RWBCIS)",
+      "crop": "Chilli",
+      "state": "All",
+      "coverage": "Weather-based insurance protection where chilli is notified under the applicable state and seasonal notification.",
+      "premium": "Premium depends on the notified crop, state, season and actuarial premium.",
+      "eligibility": "Farmers cultivating notified chilli crops in notified areas.",
+      "benefits": [
+        "Weather-based crop risk protection",
+        "Financial protection against covered weather risks",
+        "Income stabilization support"
+      ],
+      "application_process": "Check the applicable state and seasonal notification before applying.",
+      "official_url": "https://pmfby.gov.in/"
+    }
+  ]
+}

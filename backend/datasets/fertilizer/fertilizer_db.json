@@ -1,0 +1,339 @@
+{
+  "DAP": {
+    "priority": 1,
+    "type": "Phosphatic Fertilizer",
+    "nutrients": {
+      "N": 18,
+      "P": 46,
+      "K": 0
+    },
+    "application_method": [
+      "Basal application",
+      "Band placement"
+    ],
+    "benefits": [
+      "Supplies nitrogen and phosphorus",
+      "Promotes root development"
+    ],
+    "precautions": [
+      "Avoid overapplication",
+      "Incorporate into soil"
+    ]
+  },
+  "Urea": {
+    "priority": 2,
+    "type": "Nitrogen Fertilizer",
+    "nutrients": {
+      "N": 46,
+      "P": 0,
+      "K": 0
+    },
+    "application_method": [
+      "Top dressing",
+      "Split doses"
+    ],
+    "benefits": [
+      "Rapid nitrogen supply",
+      "Promotes vegetative growth"
+    ],
+    "precautions": [
+      "Avoid before heavy rain",
+      "Do not overapply"
+    ]
+  },
+  "MOP": {
+    "priority": 3,
+    "type": "Potassic Fertilizer",
+    "nutrients": {
+      "N": 0,
+      "P": 0,
+      "K": 60
+    },
+    "application_method": [
+      "Basal",
+      "Top dressing"
+    ],
+    "benefits": [
+      "Improves fruit quality",
+      "Increases stress tolerance"
+    ],
+    "precautions": [
+      "Avoid excess in saline soils"
+    ]
+  },
+  "SSP": {
+    "priority": 4,
+    "type": "Phosphatic Fertilizer",
+    "nutrients": {
+      "N": 0,
+      "P": 16,
+      "K": 0
+    },
+    "application_method": [
+      "Basal application"
+    ],
+    "benefits": [
+      "Supplies phosphorus and sulphur"
+    ],
+    "precautions": [
+      "Store in dry place"
+    ]
+  },
+  "NPK 19:19:19": {
+    "priority": 5,
+    "type": "Complex Fertilizer",
+    "nutrients": {
+      "N": 19,
+      "P": 19,
+      "K": 19
+    },
+    "application_method": [
+      "Fertigation",
+      "Foliar"
+    ],
+    "benefits": [
+      "Balanced nutrition"
+    ],
+    "precautions": [
+      "Follow recommended dose"
+    ]
+  },
+  "NPK 12:32:16": {
+    "priority": 6,
+    "type": "Complex Fertilizer",
+    "nutrients": {
+      "N": 12,
+      "P": 32,
+      "K": 16
+    },
+    "application_method": [
+      "Basal"
+    ],
+    "benefits": [
+      "High phosphorus starter"
+    ],
+    "precautions": [
+      "Avoid excess"
+    ]
+  },
+  "NPK 10:26:26": {
+    "priority": 7,
+    "type": "Complex Fertilizer",
+    "nutrients": {
+      "N": 10,
+      "P": 26,
+      "K": 26
+    },
+    "application_method": [
+      "Basal"
+    ],
+    "benefits": [
+      "Balanced P and K"
+    ],
+    "precautions": [
+      "Use after soil test"
+    ]
+  },
+  "NPK 20:20:20": {
+    "priority": 8,
+    "type": "Water Soluble",
+    "nutrients": {
+      "N": 20,
+      "P": 20,
+      "K": 20
+    },
+    "application_method": [
+      "Fertigation",
+      "Foliar"
+    ],
+    "benefits": [
+      "Balanced nutrition"
+    ],
+    "precautions": [
+      "Avoid midday spray"
+    ]
+  },
+  "NPK 14:35:14": {
+    "priority": 9,
+    "type": "Complex Fertilizer",
+    "nutrients": {
+      "N": 14,
+      "P": 35,
+      "K": 14
+    },
+    "application_method": [
+      "Basal"
+    ],
+    "benefits": [
+      "Root establishment"
+    ],
+    "precautions": [
+      "Do not overuse"
+    ]
+  },
+  "NPK 17:17:17": {
+    "priority": 10,
+    "type": "Complex Fertilizer",
+    "nutrients": {
+      "N": 17,
+      "P": 17,
+      "K": 17
+    },
+    "application_method": [
+      "Basal"
+    ],
+    "benefits": [
+      "Balanced growth"
+    ],
+    "precautions": [
+      "Use as recommended"
+    ]
+  },
+  "NPK 15:15:15": {
+    "priority": 11,
+    "type": "Complex Fertilizer",
+    "nutrients": {
+      "N": 15,
+      "P": 15,
+      "K": 15
+    },
+    "application_method": [
+      "Basal"
+    ],
+    "benefits": [
+      "General purpose"
+    ],
+    "precautions": [
+      "Use soil test"
+    ]
+  },
+  "Ammonium Sulphate": {
+    "priority": 12,
+    "type": "Nitrogen Fertilizer",
+    "nutrients": {
+      "N": 20,
+      "P": 0,
+      "K": 0
+    },
+    "application_method": [
+      "Basal"
+    ],
+    "benefits": [
+      "Adds sulphur"
+    ],
+    "precautions": [
+      "Avoid acidic soils"
+    ]
+  },
+  "Calcium Ammonium Nitrate": {
+    "priority": 13,
+    "type": "Nitrogen Fertilizer",
+    "nutrients": {
+      "N": 26,
+      "P": 0,
+      "K": 0
+    },
+    "application_method": [
+      "Top dressing"
+    ],
+    "benefits": [
+      "Quick nitrogen"
+    ],
+    "precautions": [
+      "Avoid overapplication"
+    ]
+  },
+  "Potassium Nitrate": {
+    "priority": 14,
+    "type": "Water Soluble",
+    "nutrients": {
+      "N": 13,
+      "P": 0,
+      "K": 46
+    },
+    "application_method": [
+      "Fertigation"
+    ],
+    "benefits": [
+      "Supplies N and K"
+    ],
+    "precautions": [
+      "Use recommended dose"
+    ]
+  },
+  "Mono Ammonium Phosphate": {
+    "priority": 15,
+    "type": "Phosphatic Fertilizer",
+    "nutrients": {
+      "N": 12,
+      "P": 61,
+      "K": 0
+    },
+    "application_method": [
+      "Basal",
+      "Fertigation"
+    ],
+    "benefits": [
+      "High phosphorus"
+    ],
+    "precautions": [
+      "Avoid excess"
+    ]
+  },
+  "Zinc Sulphate": {
+    "priority": 16,
+    "type": "Micronutrient",
+    "nutrients": {
+      "N": 0,
+      "P": 0,
+      "K": 0
+    },
+    "application_method": [
+      "Soil application",
+      "Foliar"
+    ],
+    "benefits": [
+      "Corrects zinc deficiency"
+    ],
+    "precautions": [
+      "Apply only if deficient"
+    ]
+  },
+  "Gypsum": {
+    "priority": 17,
+    "type": "Soil Amendment",
+    "nutrients": {
+      "N": 0,
+      "P": 0,
+      "K": 0
+    },
+    "application_method": [
+      "Basal"
+    ],
+    "benefits": [
+      "Adds calcium and sulphur"
+    ],
+    "precautions": [
+      "Not NPK fertilizer"
+    ]
+  },
+  "Boron": {
+    "priority": 18,
+    "type": "Micronutrient",
+    "nutrients": {
+      "N": 0,
+      "P": 0,
+      "K": 0
+    },
+    "application_method": [
+      "Foliar",
+      "Soil"
+    ],
+    "benefits": [
+      "Corrects boron deficiency"
+    ],
+    "precautions": [
+      "Avoid excess"
+    ]
+  }
+}

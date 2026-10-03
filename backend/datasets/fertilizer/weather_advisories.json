@@ -1,0 +1,54 @@
+{
+  "temperature": [
+    {
+      "condition": "greater_than",
+      "value": 38,
+      "advice": "High temperature detected. Apply fertilizers during early morning or late evening to reduce nutrient loss."
+    },
+    {
+      "condition": "less_than",
+      "value": 10,
+      "advice": "Low temperature may slow nutrient uptake. Avoid excessive fertilizer application."
+    }
+  ],
+
+  "humidity": [
+    {
+      "condition": "greater_than",
+      "value": 90,
+      "advice": "Very high humidity increases disease risk. Avoid excessive nitrogen fertilizers."
+    },
+    {
+      "condition": "less_than",
+      "value": 30,
+      "advice": "Low humidity can increase evaporation losses. Irrigate before fertilizer application."
+    }
+  ],
+
+  "rainfall": [
+    {
+      "condition": "greater_than",
+      "value": 20,
+      "advice": "Heavy rainfall expected. Delay fertilizer application to prevent nutrient leaching."
+    },
+    {
+      "condition": "between",
+      "min": 5,
+      "max": 20,
+      "advice": "Moderate rainfall expected. Basal fertilizer application is suitable."
+    },
+    {
+      "condition": "less_than",
+      "value": 5,
+      "advice": "Very little rainfall expected. Irrigation after fertilizer application is recommended."
+    }
+  ],
+
+  "wind_speed": [
+    {
+      "condition": "greater_than",
+      "value": 20,
+      "advice": "Strong winds detected. Avoid foliar fertilizer spraying."
+    }
+  ]
+}

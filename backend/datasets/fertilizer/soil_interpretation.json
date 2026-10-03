@@ -1,0 +1,49 @@
+{
+  "units": "kg/ha",
+  "source": "Indian Soil Health Card Standards",
+
+  "Nitrogen": {
+    "low": {
+      "min": 0,
+      "max": 280
+    },
+    "medium": {
+      "min": 281,
+      "max": 560
+    },
+    "high": {
+      "min": 561,
+      "max": 9999
+    }
+  },
+
+  "Phosphorus": {
+    "low": {
+      "min": 0,
+      "max": 22
+    },
+    "medium": {
+      "min": 23,
+      "max": 56
+    },
+    "high": {
+      "min": 57,
+      "max": 9999
+    }
+  },
+
+  "Potassium": {
+    "low": {
+      "min": 0,
+      "max": 140
+    },
+    "medium": {
+      "min": 141,
+      "max": 336
+    },
+    "high": {
+      "min": 337,
+      "max": 9999
+    }
+  }
+}
